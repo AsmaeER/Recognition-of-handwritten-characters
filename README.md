@@ -1,1 +1,1 @@
-# Recognition-of-handwritten-characters
+Creating a handwritten character recognition model using convolutional neural networks involves using machine learning techniques to teach a computer to recognize handwritten characters. Users can interact with this model through a Flask web interface by uploading images of handwritten characters.
